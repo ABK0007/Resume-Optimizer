@@ -4,6 +4,8 @@ body {
   color: #f1f5f9;
   margin: 0;
   padding: 0;
+  background-color: #034c8c;
+background-image: url("https://transparenttextures.com/patterns/gplay.png");
 }
 
 .container {
